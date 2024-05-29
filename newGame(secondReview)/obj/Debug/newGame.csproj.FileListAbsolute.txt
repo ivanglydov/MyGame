@@ -1,0 +1,10 @@
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\bin\Debug\newGame.exe.config
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\bin\Debug\newGame.exe
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\bin\Debug\newGame.pdb
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.csproj.AssemblyReference.cache
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.Properties.Resources.resources
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.csproj.GenerateResource.cache
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.csproj.CoreCompileInputs.cache
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.exe
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.pdb
+C:\Users\scmv\OneDrive\Рабочий стол\www\newGame\obj\Debug\newGame.Form1.resources
